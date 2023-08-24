@@ -1,4 +1,4 @@
-<font size=10><b>Shaoyu Lu | Data Scientist & Chemist</b></font><br>
+<font size=20><b>Shaoyu Lu | Data Scientist & Chemist</b></font><p>
 👋 <a href="https://sites.google.com/umich.edu/shaoyulu"> My research profile </a><br>
 👀 I’m interested in Machine Learning Modeling for Material Discovery <br>
 🌱 I’m currently learning Deep Learning, Graph Neural Networks<br>
